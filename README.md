@@ -3,8 +3,6 @@
 
 <div align="center">
 <!-- Typing Animation - Description -->
-<p align="center>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=12B1FF&width=435&lines=Software+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=12B1FF&width=435&lines=Software+Engineering+Student+" alt="Typing SVG" />
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</p>
 </div>
