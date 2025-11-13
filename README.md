@@ -7,14 +7,9 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 </div>
 
-const developer = {
-    name: "Your Name",
-    location: "Your City, Country",
-    role: "Full Stack Developer",
-    code: ["JavaScript", "Python", "TypeScript", "Java"],
-    interests: ["Web Development", "Open Source", "AI/ML"],
-    currentFocus: "Building scalable applications",
-    funFact: "I debug with console.log() 🐛"
-};
+<h2 align="center"> 👨‍💻About Me </h2>
+  <p align="center">
+  <img align="left" alt="Coding" width="250" height="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&separator=%3C&lines=const+developer+%3D+%7B+name%3A%22%40Icarus%22+%7D;%3Cconsole.log(createDeveloper)" alt="Typing SVG" />
+  </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
